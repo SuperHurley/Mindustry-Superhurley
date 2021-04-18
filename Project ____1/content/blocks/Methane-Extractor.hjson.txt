@@ -1,0 +1,4 @@
+type: Drill
+name:  Methane Ice extractor
+description: Extracts Methane ice from the sea floor
+research:Pneumatic Drill 
