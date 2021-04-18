@@ -1,0 +1,4 @@
+type: Drill
+name: Liquid nitrodgen extractor
+description:
+research:Cultivator 
